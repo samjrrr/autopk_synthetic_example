@@ -6,4 +6,5 @@ Parameter space files for running extravascular model search with PyDarwin.
 
 Penalty function can tested outside of PyDarwin using `python penalty.py`.
 
-Some example model evaluations are included in the director /temp.
+Some example model evaluations are included in the compressed directory /temp.
+Can run the penalty functions on the 1st 20 model evaluations performed on a model search with synthetic data.
