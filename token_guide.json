@@ -1,0 +1,75 @@
+{
+    "ODE": [
+        "1 cmt",
+        "2 cmt",
+        "3 cmt"
+    ],
+    "OMEGAS_V3": [
+        "IIV estimation V3",
+        ""
+    ],
+    "OMEGAS_Q": [
+        "IIV estimation Q",
+        ""
+    ],
+    "OMEGAS_V4": [
+        "IIV estimation V4",
+        ""
+    ],
+    "OMEGAS_Q2": [
+        "IIV estimation Q2",
+        ""
+    ],
+    "OMEGAS_D1": [
+        "IIV estimation D1",
+        ""
+    ],
+    "OMEGAS_D2": [
+        "IIV estimation D2",
+        ""
+    ],
+    "TLAG": [
+        "",
+        "With time lag"
+    ],
+    "TLAG2": [
+        "",
+        "With time lag"
+    ],
+    "ZERO_ORDER_ABS": [
+        "1st order absorption",
+        "0 order then 1st order absorption",
+        "0 order absorption"
+    ],
+    "TRANSIT_COMP": [
+        "",
+        "2 transit compartments",
+        "3 transit compartments",
+        "4 transit compartments"
+    ],
+    "DOSE_COV_CL": [
+        "",
+        "Dose effect on Cl"
+    ],
+    "DOSE_COV_V2": [
+        "",
+        "Dose effect on V2"
+    ],
+    "DOSE_COV_KA": [
+        "",
+        "Dose effect on Ka"
+    ],
+    "DOSE_COV_V3": [
+        "",
+        "Dose effect on V3"
+    ],
+    "DOSE_COV_Q": [
+        "",
+        "Dose effect on Q"
+    ],
+    "ERRORFIX": [
+        "Combined error model",
+        "Proportional error model",
+        "Additive error model"
+    ]
+}

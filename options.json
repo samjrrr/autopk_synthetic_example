@@ -1,0 +1,80 @@
+{
+    "author": "autopk",
+    "algorithm": "RF",
+    "num_opt_chains": 1,
+    "population_size": 40,
+    "num_parallel": 40,
+    "crash_value": 99999999,
+    "num_generations": 4,
+    "num_niches": 2,
+    "niche_radius": 2,
+    "downhill_period": -1,
+    "local_2_bit_search": true,
+    "final_downhill_search": true,
+    "penalty": {
+        "theta": 0,
+        "omega": 0,
+        "sigma": 0,
+        "convergence": 0,
+        "covariance": 0,
+        "correlation": 0,
+        "condition_number": 0,
+        "non_influential_tokens": 0
+    },
+    "postprocess": {
+        "use_python": true,
+        "post_run_python_code": "/projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0/penalty.py"
+    },
+    "slurm_submit_version": "pyd_search_v2.sh",
+    "model_space": "oral_small_molecule2",
+    "data_dir": "/projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/DerivedData",
+    "data_name": "toymodel_data_rate_dose.csv",
+    "output_dir": "{working_dir}/output",
+    "temp_dir": "{working_dir}/temp",
+    "remove_run_dir": false,
+    "nmfe_path": "/opt/scp/software/nonmem-standard/7.5.0-gmpich-2019a/util/nmfe75",
+    "model_run_timeout": 7200,
+    "search_radius": 3,
+    "slurm": {
+        "cores": 40,
+        "mem-per-cpu": 1,
+        "search_time_limit": "0-72:00:00"
+    },
+    "input_cols": "C ID TIME TAD AMT EVID DV II ADDL DOSE DOSEREF DAY",
+    "data_ignore": "IGNORE=@",
+    "s2_transform": "S2 = V2",
+    "DV_log_transform": false,
+    "estimation": [
+        {
+            "method": "SAEM",
+            "ISAMPLE": 2,
+            "NBURN": 1000,
+            "NITER": 500,
+            "RANMETHOD": "3S2P",
+            "CTYPE": 3,
+            "CITER": 10,
+            "CALPHA": 0.05,
+            "CINTERVAL": 10,
+            "SEED": 234567,
+            "PRINT": 5,
+            "NOABORT": true,
+            "INTERACTION": true
+        },
+        {
+            "method": "IMP",
+            "ISAMPLE": 3000,
+            "EONLY": 1,
+            "NITER": 10,
+            "RANMETHOD": "3S2P",
+            "NOABORT": true,
+            "INTERACTION": true,
+            "PRINT": 1,
+            "MAPITER": 0,
+            "SIGDIGITS": 3,
+            "NSIG": 3,
+            "SIGL": 9
+        }
+    ],
+    "working_dir": "/projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0",
+    "random_seed": 0
+}

@@ -1,0 +1,400 @@
+[22:12:38] Using darwin.MemoryModelCache
+[22:12:38] Writing intermediate output to /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0/output/results.csv
+[22:12:38] Models will be saved in /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0/models.json
+[22:12:38] Template file found at /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0/template.txt
+[22:12:38] Tokens file found at /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0/tokens.json
+[22:12:38] Algorithm: RF
+[22:12:38] Engine: NONMEM
+[22:12:38] random_seed: 0
+[22:12:38] Project dir: /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0
+[22:12:38] Data dir: /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/DerivedData
+[22:12:38] Project working dir: /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0
+[22:12:38] Project temp dir: /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0/temp
+[22:12:38] Project output dir: /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0/output
+[22:12:38] Key models dir: /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0/key_models
+[22:12:38] Search space size: 884736
+[22:12:38] Estimated number of models to run: 832
+[22:12:38] NMFE found: /opt/scp/software/nonmem-standard/7.5.0-gmpich-2019a/util/nmfe75
+[22:12:38] Search start time: Tue Jan 23 22:12:38 2024
+[22:12:38] Starting iteration 1
+[22:12:51] Done asking
+[22:12:51] Not using Post Run R code
+[22:12:51] Post Run Python code found at /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0/penalty.py
+[22:12:51] Checking files in /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0/temp/1/02
+[22:12:51] Data set # 1 was found: /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/DerivedData/toymodel_data_rate_dose.csv
+[22:16:15] Iteration =     1, Model    35,           Done,    fitness = 15520.541,    message = No important warnings
+[22:17:20] Iteration =     1, Model    31,           Done,    fitness = 15307.517,    message = No important warnings
+[22:18:58] Iteration =     1, Model    38,           Done,    fitness = 15186.999,    message = No important warnings
+[22:20:14] Iteration =     1, Model    10,           Done,    fitness = 29565359.459,    message = No important warnings
+[22:20:18] Iteration =     1, Model     5,           Done,    fitness = 31996564.077,    message = No important warnings
+[22:21:04] Iteration =     1, Model    26,           Done,    fitness = 114258.377,    message = No important warnings
+[22:22:00] Iteration =     1, Model     4,           Done,    fitness = 32973164.029,    message = No important warnings
+[22:22:01] Iteration =     1, Model    11,           Done,    fitness = 31051.882,    message = No important warnings
+[22:22:04] Iteration =     1, Model    24,           Done,    fitness = 15087.656,    message = No important warnings
+[22:22:10] Iteration =     1, Model    34,           Done,    fitness = 23662.373,    message = No important warnings
+[22:22:38] Iteration =     1, Model     3,           Done,    fitness = 115063.156,    message = No important warnings
+[22:22:42] Iteration =     1, Model    12,           Done,    fitness = 29704424.193,    message = No important warnings
+[22:22:56] Iteration =     1, Model    18,           Done,    fitness = 14848.473,    message = No important warnings
+[22:23:05] Iteration =     1, Model    39,           Done,    fitness = 16186199.177,    message = No important warnings
+[22:23:42] Iteration =     1, Model    40,           Done,    fitness = 15515.342,    message = No important warnings
+[22:24:43] Iteration =     1, Model     1,           Done,    fitness = 42440.425,    message = No important warnings
+[22:24:52] Iteration =     1, Model    23,           Done,    fitness = 20479365.506,    message = No important warnings
+[22:26:25] Iteration =     1, Model    36,           Done,    fitness = 14291.129,    message = No important warnings
+[22:26:33] Iteration =     1, Model     7,           Done,    fitness = 14605.638,    message = No important warnings
+[22:26:58] Iteration =     1, Model    29,           Done,    fitness = 17151.059,    message = No important warnings
+[22:27:03] Iteration =     1, Model    21,           Done,    fitness = 28912369.986,    message = No important warnings
+[22:27:34] Iteration =     1, Model    16,           Done,    fitness = 34356.626,    message = No important warnings
+[22:27:48] Iteration =     1, Model    13,           Done,    fitness = 14609.434,    message = No important warnings
+[22:28:11] Iteration =     1, Model    14,           Done,    fitness = 16306539.785,    message = No important warnings
+[22:29:05] Iteration =     1, Model    22,           Done,    fitness = 34081.394,    message = No important warnings
+[22:30:19] Iteration =     1, Model     2,           Done,    fitness = 29590735.740,    message = No important warnings
+[22:31:45] Iteration =     1, Model    33,           Done,    fitness = 443438.961,    message = No important warnings
+[22:32:40] Iteration =     1, Model    37,           Done,    fitness = 232183.936,    message = No important warnings
+[22:32:46] Iteration =     1, Model    32,           Done,    fitness = 50322.462,    message = No important warnings
+[22:35:04] Iteration =     1, Model     6,           Done,    fitness = 18427050.814,    message = No important warnings
+[22:35:07] Iteration =     1, Model    30,           Done,    fitness = 21501092.302,    message = No important warnings
+[22:35:36] Iteration =     1, Model    28,           Done,    fitness = 18179906.472,    message = No important warnings
+[22:35:51] Iteration =     1, Model    17,           Done,    fitness = 22500752.075,    message = No important warnings
+[22:36:41] Iteration =     1, Model     9,           Done,    fitness = 1081509.498,    message = No important warnings
+[22:37:30] Iteration =     1, Model    27,           Done,    fitness = 24975245.691,    message = No important warnings
+[22:37:40] Iteration =     1, Model     8,           Done,    fitness = 15458779.557,    message = No important warnings
+[22:39:07] Iteration =     1, Model    19,           Done,    fitness = 695476.182,    message = No important warnings
+[22:40:35] Iteration =     1, Model    25,           Done,    fitness = 832603.130,    message = No important warnings
+[22:54:20] Iteration =     1, Model    20,           Done,    fitness = 1159756.367,    message = No important warnings
+[23:14:10] Iteration =     1, Model    15,           Done,    fitness = 2304119.239,    message = No important warnings
+[23:14:10] Tell...
+[23:14:11] Done telling
+[23:14:11] Best fitness this iteration = 14291.128601  at Tue Jan 23 23:14:11 2024
+[23:14:11] Best overall fitness = 14291.128601, iteration 1, model 36
+[23:14:11] Starting iteration 2
+[23:15:24] Done asking
+[23:15:24] Time elapsed: 62 min.
+[23:15:24] Estimated time remaining: 20 h. 42 min.
+[23:21:32] Iteration =     2, Model    22,           Done,    fitness = 15293.554,    message = No important warnings
+[23:21:33] Iteration =     2, Model    25,           Done,    fitness = 15084.017,    message = No important warnings
+[23:21:40] Iteration =     2, Model    36,           Done,    fitness = 15061.863,    message = No important warnings
+[23:21:52] Iteration =     2, Model    16,           Done,    fitness = 15114.069,    message = No important warnings
+[23:21:59] Iteration =     2, Model    35,           Done,    fitness = 15185.644,    message = No important warnings
+[23:22:00] Iteration =     2, Model    24,           Done,    fitness = 15168.364,    message = No important warnings
+[23:22:01] Iteration =     2, Model     8,           Done,    fitness = 15289.496,    message = No important warnings
+[23:22:06] Iteration =     2, Model     3,           Done,    fitness = 15288.503,    message = No important warnings
+[23:22:06] Iteration =     2, Model    23,           Done,    fitness = 15348.405,    message = No important warnings
+[23:22:52] Iteration =     2, Model    10,           Done,    fitness = 15047.122,    message = No important warnings
+[23:23:37] Iteration =     2, Model    29,           Done,    fitness = 1338750.096,    message = No important warnings
+[23:23:41] Iteration =     2, Model     1,           Done,    fitness = 21557.241,    message = No important warnings
+[23:23:47] Iteration =     2, Model    37,           Done,    fitness = 36346.789,    message = No important warnings
+[23:23:56] Iteration =     2, Model    19,           Done,    fitness = 15346.868,    message = No important warnings
+[23:24:05] Iteration =     2, Model    11,           Done,    fitness = 15137.992,    message = No important warnings
+[23:24:08] Iteration =     2, Model    14,           Done,    fitness = 15126.951,    message = No important warnings
+[23:24:29] Iteration =     2, Model    15,           Done,    fitness = 15230.688,    message = No important warnings
+[23:24:32] Iteration =     2, Model    33,           Done,    fitness = 15250.517,    message = No important warnings
+[23:25:24] Iteration =     2, Model    20,           Done,    fitness = 44403.181,    message = No important warnings
+[23:26:01] Iteration =     2, Model     2,           Done,    fitness = 14272.887,    message = No important warnings
+[23:26:46] Iteration =     2, Model     5,           Done,    fitness = 14483.569,    message = No important warnings
+[23:26:54] Iteration =     2, Model    30,           Done,    fitness = 14290.949,    message = No important warnings
+[23:27:05] Iteration =     2, Model    38,           Done,    fitness = 24739.895,    message = No important warnings
+[23:27:13] Iteration =     2, Model     9,           Done,    fitness = 14550.354,    message = No important warnings
+[23:27:16] Iteration =     2, Model    13,           Done,    fitness = 14416.011,    message = No important warnings
+[23:27:48] Iteration =     2, Model    21,           Done,    fitness = 14966.598,    message = No important warnings
+[23:27:57] Iteration =     2, Model    28,           Done,    fitness = 14492.805,    message = No important warnings
+[23:29:44] Iteration =     2, Model    18,           Done,    fitness = 14953.145,    message = No important warnings
+[23:29:45] Iteration =     2, Model     6,           Done,    fitness = 1075016.912,    message = No important warnings
+[23:29:53] Iteration =     2, Model    12,           Done,    fitness = 14581.248,    message = No important warnings
+[23:29:58] Iteration =     2, Model    17,           Done,    fitness = 14355.721,    message = No important warnings
+[23:30:26] Iteration =     2, Model    32,           Done,    fitness = 14420.501,    message = No important warnings
+[23:30:41] Iteration =     2, Model     4,           Done,    fitness = 14466.976,    message = No important warnings
+[23:30:50] Iteration =     2, Model     7,           Done,    fitness = 14556.258,    message = No important warnings
+[23:31:35] Iteration =     2, Model    31,           Done,    fitness = 32467.467,    message = No important warnings
+[23:32:26] Iteration =     2, Model    34,           Done,    fitness = 14543.551,    message = No important warnings
+[23:32:49] Iteration =     2, Model    27,           Done,    fitness = 544496.445,    message = No important warnings
+[23:32:51] Iteration =     2, Model    40,           Done,    fitness = 19500.150,    message = No important warnings
+[23:32:53] Iteration =     2, Model    26,           Done,    fitness = 14677.234,    message = No important warnings
+[23:33:27] Iteration =     2, Model    39,           Done,    fitness = 14698.525,    message = No important warnings
+[23:33:27] Tell...
+[23:33:28] Done telling
+[23:33:28] Best fitness this iteration = 14272.887273  at Tue Jan 23 23:33:28 2024
+[23:33:28] Best overall fitness = 14272.887273, iteration 2, model 2
+[23:33:28] Starting iteration 3
+[23:36:04] Done asking
+[23:36:04] Time elapsed: 83 min.
+[23:36:04] Estimated time remaining: 13 h. 04 min.
+[23:40:49] Iteration =     3, Model    11,           Done,    fitness = 15048.583,    message = No important warnings
+[23:40:51] Iteration =     3, Model     3,           Done,    fitness = 15234.182,    message = No important warnings
+[23:40:54] Iteration =     3, Model     9,           Done,    fitness = 15060.864,    message = No important warnings
+[23:40:56] Iteration =     3, Model     1,           Done,    fitness = 15221.641,    message = No important warnings
+[23:42:10] Iteration =     3, Model     8,           Done,    fitness = 15074.392,    message = No important warnings
+[23:44:58] Iteration =     3, Model    33,           Done,    fitness = 14408.309,    message = No important warnings
+[23:45:06] Iteration =     3, Model    21,           Done,    fitness = 14310.748,    message = No important warnings
+[23:45:06] Iteration =     3, Model    34,           Done,    fitness = 14585.210,    message = No important warnings
+[23:45:12] Iteration =     3, Model    28,           Done,    fitness = 14328.331,    message = No important warnings
+[23:45:23] Iteration =     3, Model    15,           Done,    fitness = 14291.373,    message = No important warnings
+[23:45:26] Iteration =     3, Model    24,           Done,    fitness = 14422.766,    message = No important warnings
+[23:45:33] Iteration =     3, Model    25,           Done,    fitness = 14467.251,    message = No important warnings
+[23:45:40] Iteration =     3, Model    27,           Done,    fitness = 14581.934,    message = No important warnings
+[23:45:47] Iteration =     3, Model    20,           Done,    fitness = 14471.057,    message = No important warnings
+[23:45:47] Iteration =     3, Model    31,           Done,    fitness = 14533.654,    message = No important warnings
+[23:45:49] Iteration =     3, Model    23,           Done,    fitness = 20534.996,    message = No important warnings
+[23:46:00] Iteration =     3, Model    29,           Done,    fitness = 14357.526,    message = No important warnings
+[23:46:25] Iteration =     3, Model    13,           Done,    fitness = 14500.617,    message = No important warnings
+[23:47:17] Iteration =     3, Model    22,           Done,    fitness = 14376.573,    message = No important warnings
+[23:47:25] Iteration =     3, Model    19,           Done,    fitness = 14487.452,    message = No important warnings
+[23:47:32] Iteration =     3, Model    16,           Done,    fitness = 14375.299,    message = No important warnings
+[23:47:33] Iteration =     3, Model    12,           Done,    fitness = 19637.166,    message = No important warnings
+[23:47:41] Iteration =     3, Model    35,           Done,    fitness = 14440.028,    message = No important warnings
+[23:47:44] Iteration =     3, Model     2,           Done,    fitness = 14357.111,    message = No important warnings
+[23:47:47] Iteration =     3, Model    26,           Done,    fitness = 14355.386,    message = No important warnings
+[23:47:48] Iteration =     3, Model    38,           Done,    fitness = 14310.686,    message = No important warnings
+[23:47:48] Iteration =     3, Model    14,           Done,    fitness = 14307.125,    message = No important warnings
+[23:47:51] Iteration =     3, Model    10,           Done,    fitness = 14367.904,    message = No important warnings
+[23:47:53] Iteration =     3, Model    32,           Done,    fitness = 14358.506,    message = No important warnings
+[23:47:56] Iteration =     3, Model     6,           Done,    fitness = 14473.704,    message = No important warnings
+[23:47:57] Iteration =     3, Model    40,           Done,    fitness = 14529.515,    message = No important warnings
+[23:48:12] Iteration =     3, Model    36,           Done,    fitness = 14492.317,    message = No important warnings
+[23:48:23] Iteration =     3, Model    30,           Done,    fitness = 14400.174,    message = No important warnings
+[23:48:51] Iteration =     3, Model     5,           Done,    fitness = 14422.560,    message = No important warnings
+[23:50:13] Iteration =     3, Model    39,           Done,    fitness = 14609.044,    message = No important warnings
+[23:50:23] Iteration =     3, Model     4,           Done,    fitness = 14431.929,    message = No important warnings
+[23:50:44] Iteration =     3, Model    18,           Done,    fitness = 14375.804,    message = No important warnings
+[23:50:50] Iteration =     3, Model    37,           Done,    fitness = 14400.995,    message = No important warnings
+[23:50:51] Iteration =     3, Model    17,           Done,    fitness = 14506.930,    message = No important warnings
+[23:51:03] Iteration =     3, Model     7,           Done,    fitness = 14555.777,    message = No important warnings
+[23:51:03] Tell...
+[23:51:04] Done telling
+[23:51:04] Best fitness this iteration = 14291.372614  at Tue Jan 23 23:51:04 2024
+[23:51:04] Best overall fitness = 14272.887273, iteration 2, model 2
+[23:51:04] Starting iteration 4
+[23:55:31] Done asking
+[23:55:31] Time elapsed: 102 min.
+[23:55:31] Estimated time remaining: 10 h. 10 min.
+[00:01:27] Iteration =     4, Model    35,           Done,    fitness = 15063.242,    message = No important warnings
+[00:01:32] Iteration =     4, Model    32,           Done,    fitness = 15061.201,    message = No important warnings
+[00:01:46] Iteration =     4, Model    16,           Done,    fitness = 15124.203,    message = No important warnings
+[00:01:59] Iteration =     4, Model    34,           Done,    fitness = 283291.651,    message = No important warnings
+[00:02:31] Iteration =     4, Model    38,           Done,    fitness = 21127.060,    message = No important warnings
+[00:03:37] Iteration =     4, Model    31,           Done,    fitness = 56858.615,    message = No important warnings
+[00:04:23] Iteration =     4, Model    29,           Done,    fitness = 25534.040,    message = No important warnings
+[00:04:43] Iteration =     4, Model    26,           Done,    fitness = 14315.995,    message = No important warnings
+[00:04:51] Iteration =     4, Model    17,           Done,    fitness = 17861.457,    message = No important warnings
+[00:04:55] Iteration =     4, Model    25,           Done,    fitness = 14478.717,    message = No important warnings
+[00:05:20] Iteration =     4, Model    18,           Done,    fitness = 15098.046,    message = No important warnings
+[00:05:22] Iteration =     4, Model     3,           Done,    fitness = 14496.386,    message = No important warnings
+[00:05:32] Iteration =     4, Model    14,           Done,    fitness = 14366.888,    message = No important warnings
+[00:05:47] Iteration =     4, Model    20,           Done,    fitness = 14482.911,    message = No important warnings
+[00:06:43] Iteration =     4, Model    30,           Done,    fitness = 14544.282,    message = No important warnings
+[00:06:54] Iteration =     4, Model    39,           Done,    fitness = 14666.578,    message = No important warnings
+[00:06:54] Iteration =     4, Model    23,           Done,    fitness = 14325.844,    message = No important warnings
+[00:06:55] Iteration =     4, Model    24,           Done,    fitness = 14369.526,    message = No important warnings
+[00:06:56] Iteration =     4, Model     8,           Done,    fitness = 14418.980,    message = No important warnings
+[00:06:59] Iteration =     4, Model    11,           Done,    fitness = 14406.556,    message = No important warnings
+[00:07:00] Iteration =     4, Model     6,           Done,    fitness = 14523.470,    message = No important warnings
+[00:07:07] Iteration =     4, Model    10,           Done,    fitness = 14456.699,    message = No important warnings
+[00:07:10] Iteration =     4, Model     2,           Done,    fitness = 14555.741,    message = No important warnings
+[00:07:12] Iteration =     4, Model    12,           Done,    fitness = 14381.342,    message = No important warnings
+[00:07:17] Iteration =     4, Model    13,           Done,    fitness = 14368.957,    message = No important warnings
+[00:07:20] Iteration =     4, Model    40,           Done,    fitness = 14656.157,    message = No important warnings
+[00:07:33] Iteration =     4, Model     4,           Done,    fitness = 14644.763,    message = No important warnings
+[00:07:44] Iteration =     4, Model    15,           Done,    fitness = 14548.870,    message = No important warnings
+[00:07:49] Iteration =     4, Model    21,           Done,    fitness = 14431.182,    message = No important warnings
+[00:07:55] Iteration =     4, Model     7,           Done,    fitness = 14559.995,    message = No important warnings
+[00:09:32] Iteration =     4, Model    37,           Done,    fitness = 14640.957,    message = No important warnings
+[00:10:14] Iteration =     4, Model     1,           Done,    fitness = 14588.064,    message = No important warnings
+[00:10:16] Iteration =     4, Model     9,           Done,    fitness = 14481.013,    message = No important warnings
+[00:10:28] Iteration =     4, Model    33,           Done,    fitness = 14432.562,    message = No important warnings
+[00:10:39] Iteration =     4, Model    28,           Done,    fitness = 14507.816,    message = No important warnings
+[00:10:51] Iteration =     4, Model     5,           Done,    fitness = 14423.274,    message = No important warnings
+[00:11:04] Iteration =     4, Model    36,           Done,    fitness = 14569.919,    message = No important warnings
+[00:12:38] Iteration =     4, Model    27,           Done,    fitness = 65483.412,    message = No important warnings
+[00:13:08] Iteration =     4, Model    22,           Done,    fitness = 14682.709,    message = No important warnings
+[00:13:54] Iteration =     4, Model    19,           Done,    fitness = 53385.523,    message = No important warnings
+[00:13:54] Tell...
+[00:13:55] Done telling
+[00:13:55] Best fitness this iteration = 14315.994858  at Wed Jan 24 00:13:55 2024
+[00:13:55] Best overall fitness = 14272.887273, iteration 2, model 2
+[00:13:55] Starting final downhill
+[00:13:55] code for niche (minimal binary) 1 = [0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1], fitness = 14272.887272820675
+[00:13:55] Downhill step: 1, niche: 1, number of models pre-filter: 21
+[00:13:56] Downhill step: 1, niche: 1, number of downhill post-filter: 12
+[00:13:56] code for niche (minimal binary) 2 = [0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1], fitness = 14315.994858425205
+[00:13:56] Downhill step: 1, niche: 2, number of models pre-filter: 21
+[00:13:56] Downhill step: 1, niche: 2, number of downhill post-filter: 11
+[00:13:56] Starting downhill step 1, total of 23 in 2 niches to be run.
+[00:13:56] Time elapsed: 2 h. 01 min.
+[00:13:56] Estimated time remaining: 8 h. 15 min.
+[00:19:56] Iteration = FND01, Model     5,           Done,    fitness = 51483.774,    message = No important warnings
+[00:20:23] Iteration = FND01, Model    14,           Done,    fitness = 14732.088,    message = No important warnings
+[00:20:51] Iteration = FND01, Model     8,           Done,    fitness = 14207.703,    message = No important warnings
+[00:21:32] Iteration = FND01, Model    15,           Done,    fitness = 14301.907,    message = No important warnings
+[00:21:42] Iteration = FND01, Model    18,           Done,    fitness = 14314.790,    message = No important warnings
+[00:21:44] Iteration = FND01, Model    16,           Done,    fitness = 18380.138,    message = No important warnings
+[00:21:49] Iteration = FND01, Model    20,           Done,    fitness = 14346.504,    message = No important warnings
+[00:21:50] Iteration = FND01, Model    21,           Done,    fitness = 16606.185,    message = No important warnings
+[00:21:54] Iteration = FND01, Model    19,           Done,    fitness = 62176.350,    message = No important warnings
+[00:22:35] Iteration = FND01, Model     3,           Done,    fitness = 14438.855,    message = No important warnings
+[00:22:43] Iteration = FND01, Model     4,           Done,    fitness = 14845.770,    message = No important warnings
+[00:22:57] Iteration = FND01, Model    10,           Done,    fitness = 14295.324,    message = No important warnings
+[00:23:00] Iteration = FND01, Model     9,           Done,    fitness = 14287.539,    message = No important warnings
+[00:23:07] Iteration = FND01, Model     7,           Done,    fitness = 67785.606,    message = No important warnings
+[00:23:08] Iteration = FND01, Model     6,           Done,    fitness = 14283.919,    message = No important warnings
+[00:23:10] Iteration = FND01, Model    22,           Done,    fitness = 15573365.276,    message = No important warnings
+[00:23:43] Iteration = FND01, Model    23,           Done,    fitness = 14330.695,    message = No important warnings
+[00:23:59] Iteration = FND01, Model     2,           Done,    fitness = 14352.326,    message = No important warnings
+[00:24:52] Iteration = FND01, Model    11,           Done,    fitness = 20335134.574,    message = No important warnings
+[00:25:56] Iteration = FND01, Model    12,           Done,    fitness = 14271.189,    message = No important warnings
+[00:30:44] Iteration = FND01, Model     1,           Done,    fitness = 32812.648,    message = No important warnings
+[00:31:04] Iteration = FND01, Model    13,           Done,    fitness = 52197.744,    message = No important warnings
+[00:32:48] Iteration = FND01, Model    17,           Done,    fitness = 1105764.959,    message = No important warnings
+[00:32:48] code for niche (minimal binary) 1 = [0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1], fitness = 14207.702791607378
+[00:32:48] Downhill step: 2, niche: 1, number of models pre-filter: 21
+[00:32:48] Downhill step: 2, niche: 1, number of downhill post-filter: 11
+[00:32:48] code for niche (minimal binary) 2 = [0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1], fitness = 14301.90741969771
+[00:32:48] Downhill step: 2, niche: 2, number of models pre-filter: 21
+[00:32:48] Downhill step: 2, niche: 2, number of downhill post-filter: 9
+[00:32:48] Starting downhill step 2, total of 20 in 2 niches to be run.
+[00:32:48] Time elapsed: 2 h. 20 min.
+[00:32:48] Estimated time remaining: 7 h. 45 min.
+[00:39:01] Iteration = FND02, Model     3,           Done,    fitness = 14564.022,    message = No important warnings
+[00:39:01] Iteration = FND02, Model     4,           Done,    fitness = 14779.973,    message = No important warnings
+[00:39:13] Iteration = FND02, Model     5,           Done,    fitness = 605447.045,    message = No important warnings
+[00:39:14] Iteration = FND02, Model     6,           Done,    fitness = 14218.271,    message = No important warnings
+[00:39:14] Iteration = FND02, Model     9,           Done,    fitness = 14230.740,    message = No important warnings
+[00:39:20] Iteration = FND02, Model     8,           Done,    fitness = 14222.243,    message = No important warnings
+[00:39:31] Iteration = FND02, Model     7,           Done,    fitness = 60180.237,    message = No important warnings
+[00:39:54] Iteration = FND02, Model     2,           Done,    fitness = 14287.309,    message = No important warnings
+[00:40:02] Iteration = FND02, Model    14,           Done,    fitness = 14801.185,    message = No important warnings
+[00:40:04] Iteration = FND02, Model    17,           Done,    fitness = 14322.514,    message = No important warnings
+[00:40:08] Iteration = FND02, Model    15,           Done,    fitness = 86606.664,    message = No important warnings
+[00:40:12] Iteration = FND02, Model    18,           Done,    fitness = 14418.150,    message = No important warnings
+[00:40:46] Iteration = FND02, Model    13,           Done,    fitness = 14364.398,    message = No important warnings
+[00:41:11] Iteration = FND02, Model    19,           Done,    fitness = 19856803.138,    message = No important warnings
+[00:41:19] Iteration = FND02, Model    10,           Done,    fitness = 22918122.037,    message = No important warnings
+[00:41:22] Iteration = FND02, Model    11,           Done,    fitness = 14205.848,    message = No important warnings
+[00:42:01] Iteration = FND02, Model    20,           Done,    fitness = 14301.129,    message = No important warnings
+[00:42:17] Iteration = FND02, Model    16,           Done,    fitness = 14365.634,    message = No important warnings
+[00:46:56] Iteration = FND02, Model     1,           Done,    fitness = 38233.459,    message = No important warnings
+[00:48:55] Iteration = FND02, Model    12,           Done,    fitness = 41857.401,    message = No important warnings
+[00:48:55] code for niche (minimal binary) 1 = [0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0], fitness = 14205.84770353303
+[00:48:55] Downhill step: 3, niche: 1, number of models pre-filter: 21
+[00:48:55] Downhill step: 3, niche: 1, number of downhill post-filter: 9
+[00:48:55] code for niche (minimal binary) 2 = [0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0], fitness = 14301.12895648894
+[00:48:55] Downhill step: 3, niche: 2, number of models pre-filter: 21
+[00:48:55] Downhill step: 3, niche: 2, number of downhill post-filter: 7
+[00:48:55] Starting downhill step 3, total of 16 in 2 niches to be run.
+[00:48:55] Time elapsed: 2 h. 36 min.
+[00:48:55] Estimated time remaining: 7 h. 12 min.
+[00:56:58] Iteration = FND03, Model     3,           Done,    fitness = 14843.268,    message = No important warnings
+[00:57:08] Iteration = FND03, Model     4,           Done,    fitness = 14791.046,    message = No important warnings
+[00:57:18] Iteration = FND03, Model     8,           Done,    fitness = 14220.723,    message = No important warnings
+[00:57:23] Iteration = FND03, Model     5,           Done,    fitness = 817857.785,    message = No important warnings
+[00:57:24] Iteration = FND03, Model     9,           Done,    fitness = 14225.816,    message = No important warnings
+[00:57:26] Iteration = FND03, Model     7,           Done,    fitness = 114218.473,    message = No important warnings
+[00:57:27] Iteration = FND03, Model     6,           Done,    fitness = 14215.971,    message = No important warnings
+[00:58:02] Iteration = FND03, Model    12,           Done,    fitness = 14818.265,    message = No important warnings
+[00:58:05] Iteration = FND03, Model     2,           Done,    fitness = 14285.529,    message = No important warnings
+[00:58:11] Iteration = FND03, Model    16,           Done,    fitness = 14411.619,    message = No important warnings
+[00:58:14] Iteration = FND03, Model    14,           Done,    fitness = 46876.276,    message = No important warnings
+[00:58:22] Iteration = FND03, Model    11,           Done,    fitness = 14365.488,    message = No important warnings
+[01:01:18] Iteration = FND03, Model    15,           Done,    fitness = 14366.909,    message = No important warnings
+[01:06:27] Iteration = FND03, Model     1,           Done,    fitness = 47528.334,    message = No important warnings
+[01:08:53] Iteration = FND03, Model    10,           Done,    fitness = 1014515.269,    message = No important warnings
+[01:26:36] Iteration = FND03, Model    13,           Done,    fitness = 248922.456,    message = No important warnings
+[01:26:36] Begin local exhaustive 2-bit search, generation = FN, step = 4
+[01:26:36] Model for local exhaustive search = FND02, phenotype = ([('ODE', 1), ('OMEGAS_V3', 0), ('OMEGAS_Q', 0), ('OMEGAS_V4', 1), ('OMEGAS_Q2', 0), ('OMEGAS_D1', 1), ('OMEGAS_D2', 1), ('TLAG', 0), ('TLAG2', 1), ('ZERO_ORDER_ABS', 2), ('TRANSIT_COMP', 0), ('DOSE_COV_CL', 1), ('DOSE_COV_V2', 0), ('DOSE_COV_KA', 0), ('DOSE_COV_V3', 1), ('DOSE_COV_Q', 1), ('ERRORFIX', 0)]) model Num = 11, fitness = 14205.84770353303
+[01:26:36] 21 models in local exhaustive search, 1 bits
+[01:26:36] 231 models in local exhaustive search, 2 bits
+[01:26:36] 231 models in local exhaustive search, 3 bits
+[01:26:36] Downhill step: 1 number of downhill models pre-filter: 231
+[01:26:36] Downhill step: 1 number of downhill models post-filter: 76
+[01:26:37] Time elapsed: 3 h. 13 min.
+[01:26:37] Estimated time remaining: 4 h. 31 min.
+[01:40:25] Iteration = FNS01, Model    40,           Done,    fitness = 1119958.958,    message = No important warnings
+[01:40:27] Iteration = FNS01, Model     7,           Done,    fitness = 28937.504,    message = No important warnings
+[01:40:44] Iteration = FNS01, Model    35,           Done,    fitness = 847204.604,    message = No important warnings
+[01:43:20] Iteration = FNS01, Model    26,           Done,    fitness = 60922.972,    message = No important warnings
+[01:43:38] Iteration = FNS01, Model    33,           Done,    fitness = 36157.254,    message = No important warnings
+[01:44:55] Iteration = FNS01, Model     6,           Done,    fitness = 22865.502,    message = No important warnings
+[01:44:59] Iteration = FNS01, Model     5,           Done,    fitness = 55994.192,    message = No important warnings
+[01:45:00] Iteration = FNS01, Model    39,           Done,    fitness = 32147741.738,    message = No important warnings
+[01:45:00] Iteration = FNS01, Model    32,           Done,    fitness = 16827.289,    message = No important warnings
+[01:45:18] Iteration = FNS01, Model    37,           Done,    fitness = 62789.800,    message = No important warnings
+[01:45:21] Iteration = FNS01, Model    11,           Done,    fitness = 23074329.719,    message = No important warnings
+[01:45:22] Iteration = FNS01, Model     4,           Done,    fitness = 16938.665,    message = No important warnings
+[01:45:30] Iteration = FNS01, Model    30,           Done,    fitness = 19766709.460,    message = No important warnings
+[01:45:49] Iteration = FNS01, Model    15,           Done,    fitness = 79631.941,    message = No important warnings
+[01:45:49] Iteration = FNS01, Model    20,           Done,    fitness = 28795836.322,    message = No important warnings
+[01:45:57] Iteration = FNS01, Model    17,           Done,    fitness = 226208.652,    message = No important warnings
+[01:46:16] Iteration = FNS01, Model    22,           Done,    fitness = 36882.184,    message = No important warnings
+[01:46:16] Iteration = FNS01, Model    31,           Done,    fitness = 545679.512,    message = No important warnings
+[01:46:46] Iteration = FNS01, Model    18,           Done,    fitness = 33585.633,    message = No important warnings
+[01:46:46] Iteration = FNS01, Model     8,           Done,    fitness = 136033.953,    message = No important warnings
+[01:46:47] Iteration = FNS01, Model     3,           Done,    fitness = 63432.628,    message = No important warnings
+[01:46:51] Iteration = FNS01, Model     1,           Done,    fitness = 85445.063,    message = No important warnings
+[01:47:02] Iteration = FNS01, Model     9,           Done,    fitness = 891629.748,    message = No important warnings
+[01:47:03] Iteration = FNS01, Model    21,           Done,    fitness = 91718.643,    message = No important warnings
+[01:47:10] Iteration = FNS01, Model    36,           Done,    fitness = 699381.054,    message = No important warnings
+[01:47:20] Iteration = FNS01, Model    27,           Done,    fitness = 23587.553,    message = No important warnings
+[01:47:24] Iteration = FNS01, Model    13,           Done,    fitness = 28239.498,    message = No important warnings
+[01:47:24] Iteration = FNS01, Model    34,           Done,    fitness = 1039135.436,    message = No important warnings
+[01:47:25] Iteration = FNS01, Model    14,           Done,    fitness = 216480.928,    message = No important warnings
+[01:47:33] Iteration = FNS01, Model    23,           Done,    fitness = 14510.415,    message = No important warnings
+[01:47:42] Iteration = FNS01, Model     2,           Done,    fitness = 21627.353,    message = No important warnings
+[01:48:08] Iteration = FNS01, Model    28,           Done,    fitness = 22757.115,    message = No important warnings
+[01:48:08] Iteration = FNS01, Model    12,           Done,    fitness = 27663.749,    message = No important warnings
+[01:49:01] Iteration = FNS01, Model    25,           Done,    fitness = 50322.926,    message = No important warnings
+[01:50:12] Iteration = FNS01, Model    16,           Done,    fitness = 937096.469,    message = No important warnings
+[01:50:23] Iteration = FNS01, Model    24,           Done,    fitness = 1027135.257,    message = No important warnings
+[01:52:55] Iteration = FNS01, Model    10,           Done,    fitness = 247221.418,    message = No important warnings
+[01:53:26] Iteration = FNS01, Model    38,           Done,    fitness = 49645.558,    message = No important warnings
+[01:53:58] Iteration = FNS01, Model    43,           Done,    fitness = 16531.458,    message = No important warnings
+[01:53:58] Iteration = FNS01, Model    19,           Done,    fitness = 669094.816,    message = No important warnings
+[01:54:32] Iteration = FNS01, Model    29,           Done,    fitness = 23441.416,    message = No important warnings
+[01:57:04] Iteration = FNS01, Model    68,           Done,    fitness = 30418.242,    message = No important warnings
+[01:57:24] Iteration = FNS01, Model    41,           Done,    fitness = 15042.290,    message = No important warnings
+[01:58:43] Iteration = FNS01, Model    54,           Done,    fitness = 32716.649,    message = No important warnings
+[01:59:09] Iteration = FNS01, Model    48,           Done,    fitness = 14312.703,    message = No important warnings
+[01:59:13] Iteration = FNS01, Model    42,           Done,    fitness = 214992.527,    message = No important warnings
+[01:59:28] Iteration = FNS01, Model    55,           Done,    fitness = 26038.022,    message = No important warnings
+[01:59:59] Iteration = FNS01, Model    64,           Done,    fitness = 46600.198,    message = No important warnings
+[02:00:03] Iteration = FNS01, Model    60,           Done,    fitness = 27574.799,    message = No important warnings
+[02:01:03] Iteration = FNS01, Model    49,           Done,    fitness = 39119.892,    message = No important warnings
+[02:01:10] Iteration = FNS01, Model    44,           Done,    fitness = 33653.232,    message = No important warnings
+[02:01:57] Iteration = FNS01, Model    45,           Done,    fitness = 36407.944,    message = No important warnings
+[02:01:58] Iteration = FNS01, Model    67,           Done,    fitness = 39204507.920,    message = No important warnings
+[02:02:08] Iteration = FNS01, Model    50,           Done,    fitness = 21411.157,    message = No important warnings
+[02:02:10] Iteration = FNS01, Model    51,           Done,    fitness = 42122.796,    message = No important warnings
+[02:03:24] Iteration = FNS01, Model    47,           Done,    fitness = 21726050.392,    message = No important warnings
+[02:03:42] Iteration = FNS01, Model    66,           Done,    fitness = 41289.717,    message = No important warnings
+[02:03:53] Iteration = FNS01, Model    59,           Done,    fitness = 20163035.159,    message = No important warnings
+[02:04:02] Iteration = FNS01, Model    72,           Done,    fitness = 911697.595,    message = No important warnings
+[02:04:05] Iteration = FNS01, Model    53,           Done,    fitness = 23250180.423,    message = No important warnings
+[02:04:06] Iteration = FNS01, Model    56,           Done,    fitness = 39416.965,    message = No important warnings
+[02:04:11] Iteration = FNS01, Model    65,           Done,    fitness = 75336.872,    message = No important warnings
+[02:04:17] Iteration = FNS01, Model    57,           Done,    fitness = 28584.681,    message = No important warnings
+[02:05:16] Iteration = FNS01, Model    69,           Done,    fitness = 73090.759,    message = No important warnings
+[02:05:25] Iteration = FNS01, Model    75,           Done,    fitness = 134508.476,    message = No important warnings
+[02:05:34] Iteration = FNS01, Model    71,           Done,    fitness = 28388866.542,    message = No important warnings
+[02:06:49] Iteration = FNS01, Model    74,           Done,    fitness = 30488465.758,    message = No important warnings
+[02:07:19] Iteration = FNS01, Model    52,           Done,    fitness = 18951.027,    message = No important warnings
+[02:08:20] Iteration = FNS01, Model    46,           Done,    fitness = 14415.079,    message = No important warnings
+[02:08:49] Iteration = FNS01, Model    58,           Done,    fitness = 25796.353,    message = No important warnings
+[02:09:22] Iteration = FNS01, Model    62,           Done,    fitness = 74265.394,    message = No important warnings
+[02:10:21] Iteration = FNS01, Model    70,           Done,    fitness = 53993.574,    message = No important warnings
+[02:11:18] Iteration = FNS01, Model    76,           Done,    fitness = 21981813.727,    message = No important warnings
+[02:11:59] Iteration = FNS01, Model    63,           Done,    fitness = 86352.904,    message = No important warnings
+[02:12:23] Iteration = FNS01, Model    73,           Done,    fitness = 95878.678,    message = No important warnings
+[02:13:36] Iteration = FNS01, Model    61,           Done,    fitness = 67252.669,    message = No important warnings
+[02:13:37] No change in fitness in 4 iterations
+[02:13:37] Final output from best model is in /projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0/output/FinalResultFile.lst
+[02:13:37] Number of considered models: 295
+[02:13:37] Number of models that were run during the search: 295
+[02:13:37] Number of unique models to best model: 199
+[02:13:37] Time to best model: 148.7 minutes
+[02:13:37] Best overall fitness: 14205.847704, iteration FND02, model 11
+[02:13:37] Elapsed time: 241.0 minutes 
+
+[02:13:37] Search end time: Wed Jan 24 02:13:37 2024
+
+[02:13:37] Key models:
+[02:13:37] Iteration =     1, Model    36,           Done,    fitness = 14291.129,    message = No important warnings
+[02:13:37] Iteration =     2, Model     2,           Done,    fitness = 14272.887,    message = No important warnings
+[02:13:37] Iteration = FND01, Model     8,           Done,    fitness = 14207.703,    message = No important warnings
+[02:13:37] Iteration = FND02, Model    11,           Done,    fitness = 14205.848,    message = No important warnings
