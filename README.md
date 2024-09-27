@@ -5,3 +5,5 @@ Parameter space files for running extravascular model search with PyDarwin.
 - Files required PyDarwin: template.txt, tokens.json, options.json, penalty.py
 
 Penalty function can tested outside of PyDarwin using `python penalty.py`.
+
+Some example model evaluations are included in the director /temp.
