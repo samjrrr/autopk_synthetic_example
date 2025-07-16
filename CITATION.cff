@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Richardson"
+  given-names: "Samuel"
+  orcid: "0000-0001-6781-3768"
+title: "autopk_synthetic_example"
+version: 1.0.0
+date-released: 2025-07-16
+url: "https://github.com/samjrrr/autopk_synthetic_example"
