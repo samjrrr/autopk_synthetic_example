@@ -23,12 +23,12 @@
     },
     "postprocess": {
         "use_python": true,
-        "post_run_python_code": "/projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0/penalty.py"
+        "post_run_python_code": "penalty.py"
     },
     "slurm_submit_version": "pyd_search_v2.sh",
     "model_space": "oral_small_molecule2",
-    "data_dir": "/projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/DerivedData",
-    "data_name": "toymodel_data_rate_dose.csv",
+    "data_dir": "data",
+    "data_name": "synth_data10.csv",
     "output_dir": "{working_dir}/output",
     "temp_dir": "{working_dir}/temp",
     "remove_run_dir": false,
@@ -75,6 +75,6 @@
             "SIGL": 9
         }
     ],
-    "working_dir": "/projects/qcp/QCP_MODELING/OTHER/autoPK/automatization_popPK/poppk/az_synthetic_data/ribo/8/5/n0",
+    "working_dir": "~/working_dir",
     "random_seed": 0
 }
